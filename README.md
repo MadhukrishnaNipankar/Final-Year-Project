@@ -1,2 +1,2 @@
-Frontend
-LearnoScope - An Educational Video Sharing Platform
+# Frontend
+## LearnoScope - An Educational Video Sharing Platform
