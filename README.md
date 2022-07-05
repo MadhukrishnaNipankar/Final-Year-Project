@@ -1,1 +1,1 @@
-##LearnoScope - An Educational Video Sharing Platform
+LearnoScope - An Educational Video Sharing Platform
